@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Awesome startup Employee Directory",
+      "description": "An app that shows the employees data from an api and presents it on the screen.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "VS Code",
+        "Git and GitHub",
+        "Fetch and Public Apis"
+      ],
+      "live_link": "https://lennoxpow.github.io/Public_Api_Request",
+      "github_link": "https://github.com/lennoxPow/Public_Api_Request",
+      "image_urls": ["/static/images/PubApi.png", "/static/images/PubApi2.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Students Data",
+      "description": "An app that show's the students data, and devide it into chunks to present it onto screen in a beautiful, accessable and performative way.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "VS Code",
+        "Git and GitHub",
+        "Accessibility"
+      ],
+      "live_link": "https://lennoxpow.github.io/DataPagination",
+      "github_link": "https://github.com/lennoxPow/DataPagination",
+      "image_urls": [
+        "/static/images/DataPag.png",
+        "/static/images/DataPag2.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Full Stack Conference",
+      "description": "An app that check and validate the input of users when they try to submit invalid data in a web development conferencing site.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "VS Code",
+        "Git and GitHub",
+        "Accessibility"
+      ],
+      "live_link": "https://lennoxpow.github.io/InterativeForm",
+      "github_link": "https://github.com/lennoxPow/InterativeForm",
+      "image_urls": ["/static/images/InForm.png", "/static/images/InForm2.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "A Random Code Generator",
+      "description": "An app that generates random quote from a list of quotes with the click of a button.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "VS Code",
+        "Git and GitHub"
+      ],
+      "live_link": "https://lennoxpow.github.io/RandomCodeGenerator",
+      "github_link": "https://github.com/lennoxPow/RandomCodeGenerator",
+      "image_urls": [
+        "/static/images/RanQuote.png",
+        "/static/images/RanQuote2.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "A Phrase Hunter",
+      "description": "An app that show's a random hidden, phrase. The player's goal is to guess all the letters in a hidden, random phrase.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "VS Code",
+        "Git and GitHub",
+        "OOP"
+      ],
+      "live_link": "https://lennoxpow.github.io/GameShowOOP",
+      "github_link": "https://github.com/lennoxPow/GameShowOOP",
+      "image_urls": ["/static/images/OOP.png", "/static/images/OOP2.png"]
+    }
+  ]
+}

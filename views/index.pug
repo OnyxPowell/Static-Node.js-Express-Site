@@ -1,0 +1,20 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    h1 Hey, Potential Employer!
+ 
+    p This portfolio is a marketing document meant to demonstrate my myriad skills, including, but not limited to: web development, soft skills, lifelong learning, technical prowess, and the ability to use the word "myriad" correctly in a sentence. Am i hired?
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+
+      each project in projects
+        .cell
+          a(href="/project/" + project.id)
+            img.thumbnail(src=project.image_urls[0], alt=project.project_name)
+            h5=project.project_name
+
